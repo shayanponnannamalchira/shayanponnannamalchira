@@ -38,10 +38,6 @@ I am a passionate programmer with a strong foundation in Python, C, and C++. Dri
 
 <li>Introduction to AIML: A comprehensive set of programs tackling the fundamentals of Artificial Intelligence and Machine Learning.</li>
 
-<li>100-Days C++: Challenging C++ projects covering object-oriented design, data structures, and algorithms crafted to sharpen coding expertise.</li>
-
-<li>100-Days C: Projects and exercises focused on core C programming concepts, algorithmic thinking, and practical problem-solving techniques.</li></ul>
-
 ###
 
 <h1>Get in Touch</h1>
