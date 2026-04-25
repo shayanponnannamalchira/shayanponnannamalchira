@@ -1,5 +1,5 @@
 <h1 align="center">Shayan Ponnanna Malchira</h1>
-<h6 align="center">I am currently pursuing B.Tech CSE specializing in Data Analytics, passionate about creating diverse projects that apply data analysis, programming, and machine learning to solve real-world problems</h6>
+<h6 align="center">I am currently pursuing B.Tech CSE specializing in Data Analytics, passionate about creating diverse projects that apply data analysis, programming and machine learning to solve real-world problems</h6>
 
 ###
 
@@ -25,6 +25,10 @@ I am a passionate programmer with a strong foundation in Python, C, and C++. Dri
 <li>Python_Data_Viz: A CRON-scheduled AWS pipeline for automated financial data harvesting and cloud-hosted statistical visualization..</li>
 
 <li>Rockfall_Prediction: Synthetic Data Generator for Rockfall in Mines.</li>
+
+<li>Stock_Price_Prediction: Machine learning project that utilizes historical market data and LSTM networks to forecast future stock price movements and trends</li>
+
+<li>Fake_News_Generator: A natural language processing application that uses Python and the Passive Aggressive Classifier to analyze text patterns and distinguish between legitimate news and misinformation.</li>
 
 ###
 
