@@ -24,11 +24,11 @@ I am a passionate programmer with a strong foundation in Python, C, and C++. Dri
 <ul style="list-style-type: disc;">
 <li>Python_Data_Viz: A CRON-scheduled AWS pipeline for automated financial data harvesting and cloud-hosted statistical visualization..</li>
 
-<li>Rockfall_Prediction: Synthetic Data Generator for Rockfall in Mines.</li>
+<li>btli: A Python pipeline that collects 200 published papers from Deloitte, EY, KPMG and PwC (50 per firm, across 5 topics), cleans them, and compares what each firm emphasises.</li>
 
 <li>Stock_Price_Prediction: Machine learning project that utilizes historical market data and LSTM networks to forecast future stock price movements and trends</li>
 
-<li>Fake_News_Generator: A natural language processing application that uses Python and the Passive Aggressive Classifier to analyze text patterns and distinguish between legitimate news and misinformation.</li>
+<li>docreverse_project: Python tool that reads company documents (SOPs, policies, Word, Excel, PDF) and rebuilds how the organisation works: processes, owners, systems and rules.</li>
 
 ###
 
