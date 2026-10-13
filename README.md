@@ -35,7 +35,7 @@ I am a passionate programmer with a strong foundation in Python, C, and C++. Dri
 <h1>Get in Touch</h1>
 <ul style="list-style-type: disc;">
   <li>GitHub: @shayanponnannamalchira</li>
-  <li>LinkedIn: https://www.linkedin.com/in/shayan-ponnanna-malchira</li>
+  <li>LinkedIn: www.linkedin.com/in/shayan-ponnanna-m</li>
   <li>Email: shayanponnanna.m@gmail.com</li>
 </ul>
 
